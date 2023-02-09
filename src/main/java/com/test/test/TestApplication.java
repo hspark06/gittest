@@ -9,6 +9,7 @@ public class TestApplication {
 	public static void main(String[] args) {
 		System.out.println("main brach!!");
 		SpringApplication.run(TestApplication.class, args);
+		System.out.println("111222");
 	}
 
 }
